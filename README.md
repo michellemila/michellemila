@@ -1,68 +1,100 @@
 <h1 align="center">Hi 👋, I'm Michelle Milanello</h1>
 
-<p align="center">
-  <img src="./miceng.png" alt="Michelle Milanello" width="220">
-</p>
-
 <h3 align="center">
-Information Technology Student at Politeknik Negeri Madiun
+Information Technology Student at Politeknik Negeri Madiun 🇮🇩
 </h3>
 
 <p align="center">
-Learning Web Development • Building Projects • Always Improving
+<img src="./michelle.png" width="240" alt="Michelle Milanello"/>
 </p>
 
 <p align="center">
-<a href="https://misyel-new-portfolio.netlify.app">🌐 Portfolio</a> •
-<a href="mailto:michellemila37@gmail.com">📧 Email</a> •
-<a href="https://instagram.com/milanello03_">📷 Instagram</a>
+Learning web development one project at a time.
+</p>
+
+<p align="center">
+<a href="https://misyel-new-portfolio.netlify.app">
+<img src="https://img.shields.io/badge/🌐 Portfolio-2ea44f?style=for-the-badge">
+</a>
+
+<a href="mailto:michellemila37@gmail.com">
+<img src="https://img.shields.io/badge/📧 Gmail-EA4335?style=for-the-badge">
+</a>
+
+<a href="https://instagram.com/milanello03_">
+<img src="https://img.shields.io/badge/📷 Instagram-E4405F?style=for-the-badge">
+</a>
 </p>
 
 ---
 
 ## 👩 About Me
 
-I'm Michelle Milanello, an Information Technology student at Politeknik Negeri Madiun.
+🎓 Information Technology Student at **Politeknik Negeri Madiun**
 
-Currently, I'm learning web development and strengthening my programming fundamentals through academic and personal projects. I enjoy exploring new technologies and continuously improving my skills by building real applications.
+💻 Currently learning **Frontend Web Development**
+
+🌱 Interested in:
+
+- HTML
+- CSS
+- JavaScript
+- PHP
+- Python
+- MySQL
+
+🚀 I enjoy building projects while improving my programming skills.
 
 ---
 
-## 💻 Tech Stack
+## 🛠 Tech Stack
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=html"/>
-<img src="https://skillicons.dev/icons?i=css"/>
-<img src="https://skillicons.dev/icons?i=javascript"/>
-<img src="https://skillicons.dev/icons?i=php"/>
-<img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-<img src="https://skillicons.dev/icons?i=git"/>
-<img src="https://skillicons.dev/icons?i=github"/>
-<img src="https://skillicons.dev/icons?i=vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,c,cpp,java,git,github,vscode,figma"/>
 
 </p>
 
 ---
 
-## 📂 Projects
+## 🚀 Featured Projects
 
-- 🌐 Personal Portfolio Website
-- 🚌 Shuttle Bus Information System
-- 🗑️ Waste Pickup Information System
-
-More projects will be added as I continue learning.
+| Project | Description |
+|---------|-------------|
+| 🌐 Portfolio Website | Personal portfolio website |
+| 🚌 Shuttle Bus Information System | Campus transportation information system |
+| 🗑️ Waste Pickup Information System | Web-based waste pickup management system |
 
 ---
 
-## 📫 Contact
+## 📈 Contribution Graph
 
-- 📧 **michellemila37@gmail.com**
-- 📷 **@milanello03_**
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=michellemila&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://instagram.com/milanello03_">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="mailto:michellemila37@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
 
 ---
 
 <p align="center">
-Thank you for visiting my profile! 🤍
+
+⭐ Thanks for visiting my profile !
+
 </p>
