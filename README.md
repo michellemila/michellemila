@@ -3,7 +3,8 @@
 
 - 🔭 I’m currently study at **Information Technology Student at Politeknik Negeri Madiun**
 
-- 👨‍💻 All of my projects are available at [https://misyel-new-portfolio.netlify.app/](https://misyel-new-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/michellemila] 
+-  Here my portfolios ! [https://misyel-new-portfolio.netlify.app/](https://misyel-new-portfolio.netlify.app/)
 
 - 📫 How to reach me **michellemila37@gmail.com**
 
