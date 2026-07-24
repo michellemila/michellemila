@@ -1,57 +1,42 @@
 <p align="center">
-
-<img src="images/banner.png"/>
-
+  <img src="./assets/banner.png" alt="Michelle Banner" width="100%">
 </p>
 
-<h1 align="center">
-Hi 👋 I'm Michelle Milanello
-</h1>
+<h1 align="center">Hi 👋, I'm Michelle Milanello</h1>
 
 <h3 align="center">
-Information Technology Student • Politeknik Negeri Madiun 🇮🇩
+Information Technology Student at Politeknik Negeri Madiun 🇮🇩
 </h3>
 
 <p align="center">
-
-Learning, building, and growing through every project.
-
+Learning web development through academic and personal projects.
 </p>
 
 <p align="center">
 
-<a href="https://misyel-new-portfolio.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white">
+<a href="https://misyel-new-portfolio.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-2F855A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="mailto:michellemila37@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/milanello03_">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 👩 About Me
+# 👩🏻‍💻 About Me
 
-🎓 Information Technology Student at **Politeknik Negeri Madiun**
-
-💻 Currently learning:
-
-- HTML
-- CSS
-- JavaScript
-- PHP
-- Python
-- MySQL
-
-🚀 Interested in Web Development
-
-📚 Always learning new things and improving through academic and personal projects.
+- 🎓 Information Technology Student at **Politeknik Negeri Madiun**
+- 🌱 Currently learning **HTML, CSS, JavaScript, PHP, Python, and MySQL**
+- 💻 Interested in **Web Development**
+- 🚀 I enjoy learning by building academic and personal projects.
+- 📖 Always curious about new technologies and eager to improve my programming skills.
 
 ---
 
@@ -59,13 +44,13 @@ Learning, building, and growing through every project.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,c,cpp,java,git,github,vscode,figma&perline=7"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,c,cpp,java,git,github,vscode,figma&theme=light"/>
 
 </p>
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -77,7 +62,7 @@ Learning, building, and growing through every project.
 
 <p align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=michellemila&theme=catppuccin_latte&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=michellemila&theme=catppuccin-latte&hide_border=true"/>
 
 </p>
 
@@ -93,15 +78,15 @@ Learning, building, and growing through every project.
 
 ---
 
-# 📌 Featured Projects
+# 🚀 Featured Projects
 
 | Project | Description |
-|----------|-------------|
-| 🌐 Portfolio Website | My personal portfolio website |
-| 🚌 Shuttle Bus System | Campus transportation information system |
-| 🗑 Waste Pickup System | Online waste pickup information system |
+|---------|-------------|
+| 🌐 Personal Portfolio | My personal portfolio website |
+| 🚌 Shuttle Bus Management System | Campus transportation information system |
+| 🗑️ Waste Pickup Information System | Web-based waste pickup management system |
 
-*(Update this section as you build more projects.)*
+> More projects coming soon 🚀
 
 ---
 
@@ -110,20 +95,18 @@ Learning, building, and growing through every project.
 <p align="center">
 
 <a href="https://instagram.com/milanello03_">
-
 <img src="https://skillicons.dev/icons?i=instagram"/>
-
 </a>
 
 <a href="mailto:michellemila37@gmail.com">
-
 <img src="https://skillicons.dev/icons?i=gmail"/>
-
 </a>
 
 </p>
 
 ---
+
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -135,6 +118,6 @@ Learning, building, and growing through every project.
 
 <p align="center">
 
-⭐ Thanks for visiting my profile ⭐
+✨ Thanks for visiting my GitHub profile! ✨
 
 </p>
