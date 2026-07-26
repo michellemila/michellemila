@@ -5,7 +5,7 @@ Information Technology Student at Politeknik Negeri Madiun 🇮🇩
 </h3>
 
 <p align="center">
-<img src="./misyel.png" width="240" alt="Michelle Milanello"/>
+<img src="./milanello.png" width="240" alt="Michelle Milanello"/>
 </p>
 
 <p align="center">
