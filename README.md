@@ -98,3 +98,7 @@ Learning web development one project at a time.
 ⭐ Thanks for visiting my profile !
 
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/michellemila/michellemila/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
